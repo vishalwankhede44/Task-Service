@@ -19,11 +19,16 @@ Usage:
 bash
 Copy code
 # Example usage of the Task-Service functions
-# (Replace placeholders with actual data or IDs)
+
 createTask(taskData);
+
 getAllTasks();
+
 getTaskById(taskId);
+
 updateTaskById(taskId, updatedData);
+
 deleteTaskById(taskId);
+
 Contributing:
 Contributions are welcome! Feel free to open issues, submit pull requests, or provide feedback. Let's make task management even better together.
